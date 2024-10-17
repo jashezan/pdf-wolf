@@ -1,0 +1,8 @@
+altgraph==0.17.4
+packaging==24.1
+pdf2image==1.17.0
+pillow==11.0.0
+pyinstaller==6.11.0
+pyinstaller-hooks-contrib==2024.9
+PyPDF2==3.0.1
+setuptools==75.2.0
